@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66" started-at="2021-07-29T12:17:12 IST" finished-at="2021-07-29T12:17:12 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="66" started-at="2021-07-29T12:17:12 IST" finished-at="2021-07-29T12:17:12 IST">
+      <class name="qaacademy.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="Browser()[pri:0, instance:qaacademy.Mavenjava.SeleniumTest@3cef309d]" name="Browser" duration-ms="6" started-at="2021-07-29T12:17:12 IST" finished-at="2021-07-29T12:17:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method status="PASS" signature="Browser1()[pri:0, instance:qaacademy.Mavenjava.SeleniumTest@3cef309d]" name="Browser1" duration-ms="0" started-at="2021-07-29T12:17:12 IST" finished-at="2021-07-29T12:17:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser1 -->
+      </class> <!-- qaacademy.Mavenjava.SeleniumTest -->
+      <class name="qaacademy.Mavenjava.MobileTest">
+        <test-method status="PASS" signature="Browser4()[pri:0, instance:qaacademy.Mavenjava.MobileTest@1efed156]" name="Browser4" duration-ms="1" started-at="2021-07-29T12:17:12 IST" finished-at="2021-07-29T12:17:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser4 -->
+        <test-method status="PASS" signature="Browser5()[pri:0, instance:qaacademy.Mavenjava.MobileTest@1efed156]" name="Browser5" duration-ms="1" started-at="2021-07-29T12:17:12 IST" finished-at="2021-07-29T12:17:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser5 -->
+      </class> <!-- qaacademy.Mavenjava.MobileTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
